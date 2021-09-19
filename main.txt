@@ -1,4 +1,6 @@
 Hello!!
 bye bye!!!
 I said bye!!!!!!!!!!!!!!
-Do you understand ? making conflict
+<<<<<<< HEAD
+Do you understand?
+testing conflict 
